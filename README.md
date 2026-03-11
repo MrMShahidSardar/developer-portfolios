@@ -617,7 +617,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## M
 
 - [Dr Milan Milanovic](https://milan.milanovic.org/)
-- [Muhammad Shahid Sardar](https://mrmshahidsardar.github.io/) [Data Scientist & IT support specialist]
+- [Muhammad Shahid Sardar](https://mrmshahidsardar.github.io/) [Data Scientist & IT Support Specialist]
 - [MP3Martin](https://mp3martin.xyz)
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 x Google Hall of Fame]
 - [Madhan K](https://madhank93.github.io)
